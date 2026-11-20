@@ -1,0 +1,2 @@
+C1001|SathyaS|1234567890|sathya@gmail.com|1234
+C1002|Sathyasureshmani|9087654321|sathysureshmani@gmail.com|1256
